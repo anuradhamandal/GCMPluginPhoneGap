@@ -1,1 +1,1 @@
-GCM Cordova Plugin developed by Anuradha Mandal
+GCM Cordova Plugin
